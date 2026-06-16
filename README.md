@@ -49,20 +49,13 @@ Full-stack developer · AI Enthusiast · Competitive Programmer
 
 ## 🚀 Projects:
 
-### [InterviewAI](https://github.com/Chaitanya7777777/InterviewAI)
+### [InterviewAI](https://github.com/Chaitanya7777777/ai-interview-platform)
 AI-powered resume analysis and mock interview platform.  
 `Next.js` · `TypeScript` · `FastAPI` · `PostgreSQL` · `Supabase` · `Groq API`
 
 ---
 
-### [AutoOxy](https://github.com/Chaitanya7777777/AutoOxy)
-Smart oxygen regulation system using real-time SpO₂ monitoring.  
-*Winner — Vigyaan Techfest 2025 | Received seed funding from Incubation Cell.*  
-`Arduino` · `C++` · `Sensors` · `FreeCAD`
-
----
-
-### [Repair Tracker](https://github.com/Chaitanya7777777/Repair-Tracker)
+### [Repair Tracker](https://github.com/Chaitanya7777777/repair-tracker)
 Real-time repair management application.  
 `React` · `Node.js` · `Express.js` · `Socket.IO`
 
