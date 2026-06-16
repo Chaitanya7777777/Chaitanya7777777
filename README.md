@@ -32,8 +32,8 @@ Full-stack developer · AI Enthusiast · Competitive Programmer
 ---
 
 ## 🖥️ Coding Platforms:
-[![Codeforces](https://img.shields.io/badge/Codeforces-Chaitanya7777777-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/chaitanyag7727)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Chaitanya7777777-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/each_atom_10)
+[![Codeforces](https://img.shields.io/badge/Codeforces-chaitanyag7727-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/chaitanyag7727)
+[![CodeChef](https://img.shields.io/badge/CodeChef-each__atom__10-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/each_atom_10)
 
 | Platform | Handle | Rating / Milestone |
 |---|---|---|
